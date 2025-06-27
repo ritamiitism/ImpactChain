@@ -85,9 +85,6 @@ A leaderboard showing the list of users in descending order of their monthly sta
 
 Leaderboard can be toggled to show users in ascending/descending order of their all-time stars or monthly stars.
 
-View Live App
-Hosted at https://impactchain.onrender.com
-
 Tech Stack Used
 The MERN Stack
 MongoDB - Document database - to store data as JSON
